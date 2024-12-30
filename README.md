@@ -3,10 +3,19 @@
 ## Overview
 This project, completed as part of IST 737 Visual Analytics Dashboards (Fall 2024) at Syracuse University, explores global and U.S.-based job market trends in data science. Using Tableau, we provide actionable insights into roles, skills, salary trends, and hiring patterns to help iSchool students navigate the evolving data-driven job market effectively.
 
+---
+
+## Team Members
+- Hrushikesh Ravindra Medhekar  
+- Isha Nitin Agrawal  
+- Kulveen Kaur  
+- Tanvi Sachin Pradhan  
+- Yash Sumit Vishwakarma  
 
 ### Under the Guidance of:  
 Prof. Raj Dewan  
 
+---
 
 ## Project Description
 This Tableau project analyzes data science job market trends, focusing on:
@@ -17,11 +26,13 @@ This Tableau project analyzes data science job market trends, focusing on:
 
 Our dashboards provide a global overview with a detailed focus on U.S. markets, empowering job seekers and decision-makers to make data-driven career choices.
 
+---
 
 ## Data Sources
 The datasets used in this project are available at the following link:  
 [https://tinyurl.com/projectdatasets](https://tinyurl.com/projectdatasets)
 
+---
 
 ## Dashboards
 
@@ -72,9 +83,4 @@ The datasets used in this project are available at the following link:
 ## Acknowledgments
 We extend our gratitude to Prof. Raj Dewan for guidance and support throughout the project. This collaboration was instrumental in delivering a comprehensive analysis of job market trends.
 
----
 
-## Relevant Links
-- [Syracuse University iSchool](https://ischool.syr.edu/)
-- [IST 737 Visual Analytics Course](https://ischool.syr.edu/course/ist-737-visual-analytics/)
-- [Tableau](https://www.tableau.com/)
